@@ -2,7 +2,7 @@ package ro.ulbs.paradigme.lab2.simplechained;
 
 import ro.ulbs.paradigme.lab2.api.Node;
 
-public class SimpleChainedNode {
+public class SimpleChainedNode implements Node {
 	int value;
 	SimpleChainedNode next;
 

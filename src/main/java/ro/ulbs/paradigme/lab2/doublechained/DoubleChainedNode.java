@@ -2,7 +2,7 @@ package ro.ulbs.paradigme.lab2.doublechained;
 
 import ro.ulbs.paradigme.lab2.api.Node;
 
-public class DoubleChainedNode {
+public class DoubleChainedNode implements Node {
 	int value;
 	DoubleChainedNode next;
 	DoubleChainedNode prev;

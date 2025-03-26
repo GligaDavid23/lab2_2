@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e738a0-37f0-4c93-9191-0c0a1471fc60" name="Changes" comment="" />
+    <list default="true" id="90e738a0-37f0-4c93-9191-0c0a1471fc60" name="Changes" comment="lab2_liste">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab4/pb1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab4/pb2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab4/pb2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab4/pb3/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab4/pb3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studenti.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ro/ulbs/paradigme/lab2/doublechained/DoubleChainedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ro/ulbs/paradigme/lab2/doublechained/DoubleChainedNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ro/ulbs/paradigme/lab2/simplechained/SimpleChainedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ro/ulbs/paradigme/lab2/simplechained/SimpleChainedNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab2/doublechained/DoubleChainedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab2/doublechained/DoubleChainedNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab2/simplechained/SimpleChainedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab2/simplechained/SimpleChainedNode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +26,125 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "dart.analysis.tool.window.visible": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GligaDavid23&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GligaDavid23/lab2_2.git&quot;,
+    &quot;accountId&quot;: &quot;ce759acf-a807-41ad-b247-498e27e4c99f&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uOnctYFmUylrw2iS6DY5jjHrO4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eti/IdeaProjects/ListaSimpluInlantuita&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="lab2_liste">
+      <option name="closed" value="true" />
+      <created>1741856516338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741856516338</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90e738a0-37f0-4c93-9191-0c0a1471fc60" name="Changes" comment="lab2_liste" />
+      <created>1742128570669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742128570669</updated>
+      <workItem from="1742128571849" duration="1468000" />
+      <workItem from="1742457251652" duration="83000" />
+      <workItem from="1742457367601" duration="185000" />
+      <workItem from="1742457561652" duration="4111000" />
+      <workItem from="1742461769181" duration="11000" />
+      <workItem from="1743015573958" duration="550000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab2_liste" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2_liste" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
